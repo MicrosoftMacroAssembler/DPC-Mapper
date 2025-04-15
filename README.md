@@ -1,2 +1,2 @@
 # Orelia-Mapper
-Driver manual mapper with legitimate memory allocation and isolated core execution
+Driver manual mapper with legitimate module allocation and isolated core execution
