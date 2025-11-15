@@ -1,2 +1,3 @@
-# Orelia-Mapper
-Driver manual mapper with legitimate module allocation and isolated core execution
+# DPC-Mapper
+Driver manual mapper with memory allocation and isolated core DPC execution
+
